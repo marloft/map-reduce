@@ -1,0 +1,7 @@
+/src/mapreduce/files/
+build
+dist
+nbproject
+build.xml
+manifest.mf
+*~
